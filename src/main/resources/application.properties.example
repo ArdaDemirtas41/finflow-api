@@ -1,12 +1,12 @@
 spring.datasource.url=jdbc:mysql://localhost:3306/veritabani_adi
-spring.datasource.username=KULLANICI_ADINI_BURAYA_YAZ
-spring.datasource.password=SIFRENI_BURAYA_YAZ
+spring.datasource.username=Enter your username here.
+spring.datasource.password=Enter the password here.
 spring.jpa.hibernate.ddl-auto=update
 
-jwt.secret.key=JWT KEY BURAYA
-jwt.expiration=EXPİRATION SAAT
+jwt.secret.key=JWT KEY here
+jwt.expiration=EXPİRATION time
 
-jwt.refresh.token.expired=EXPİRATION REFRESHTOKEN
+jwt.refresh.token.expired=EXPİRATION time for refreshtoken
 
 
-evds.key=KUR CEKIMI ICIN KEY
+evds.key=Key for Turkey for currency withdrawal
