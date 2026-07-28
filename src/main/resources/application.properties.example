@@ -1,0 +1,12 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/veritabani_adi
+spring.datasource.username=KULLANICI_ADINI_BURAYA_YAZ
+spring.datasource.password=SIFRENI_BURAYA_YAZ
+spring.jpa.hibernate.ddl-auto=update
+
+jwt.secret.key=JWT KEY BURAYA
+jwt.expiration=EXPİRATION SAAT
+
+jwt.refresh.token.expired=EXPİRATION REFRESHTOKEN
+
+
+evds.key=KUR CEKIMI ICIN KEY
