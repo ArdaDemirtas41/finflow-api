@@ -9,4 +9,4 @@ jwt.expiration=EXPİRATION time
 jwt.refresh.token.expired=EXPİRATION time for refreshtoken
 
 
-evds.key=Key for Turkey for currency withdrawal
+evds.key=Key for USD currency data from EVDS (for Türkiye)
